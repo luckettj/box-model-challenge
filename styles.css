@@ -1,0 +1,12 @@
+.box h1{
+	border: solid green;
+	background-color: red;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+.box p{
+	border: dashed purple;
+	backgroung-color: blue;
+	margin: 0 0 0 0;
+}
